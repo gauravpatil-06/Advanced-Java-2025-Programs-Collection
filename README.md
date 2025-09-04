@@ -1,6 +1,6 @@
 💻 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗝𝗮𝘃𝗮 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝘀 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻
 
-🚀 A complete collection of Advanced Java programs and mini-projects covering enterprise-level concepts. 📘 Includes JDBC, Servlets, JSP, Swing GUI, networking, and a real-world Fast Food Ordering System project. 💡 Useful for students, mini-projects, and real-world applications with clean and practical coding style.
+🚀 A complete collection of Advanced Java programs and mini-projects covering enterprise-level concepts. 📘 Includes JDBC, Servlets, JSP, Swing GUI, networking, and a real-world Fast Food Ordering System project. 💡 Useful for students, projects, and real-world applications with clean and practical coding style.
 
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
