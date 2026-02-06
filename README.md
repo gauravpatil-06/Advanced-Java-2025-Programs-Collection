@@ -17,13 +17,21 @@
 
 ---
 
+## 📘 About This Repository
+
+This repository contains a **well-structured collection of Advanced Java programs and mini-projects** created for **academic learning, practical implementation, and enterprise-level practice**.
+
+It focuses on building real-world skills in **database connectivity, GUI development, networking**, and complete **project-based learning** using Advanced Java concepts.
+
+---
+
 ## 💻 Advanced Java Programs Collection
 
-🚀 A complete collection of **Advanced Java programs and mini-projects** covering **enterprise-level concepts**.  
+🚀 A complete and carefully organized set of **Advanced Java programs** covering **enterprise-level concepts**.
 
-📘 Includes **JDBC, Swing & AWT GUI, File & I/O Handling, Networking**, and a **real-world Fast Food Ordering System** project.  
+📘 Topics include **JDBC, Swing & AWT GUI, File & I/O Handling, Networking**, along with a **real-world Fast Food Ordering System** project.
 
-💡 Useful for **students, academic projects, and real-world applications** with a clean and practical coding style.
+💡 Written in a **clean, practical, and project-oriented coding style**, making it suitable for real-world applications and academic submissions.
 
 ---
 
@@ -32,11 +40,22 @@
 | Feature Area | Details |
 |-------------|---------|
 | 🖥 JDBC | Database connectivity, CRUD operations, prepared statements |
-| 🌐 Servlets & JSP | Web-based applications, forms, request/response handling |
 | 🪟 GUI (Swing & AWT) | Login forms, order systems, calculators, interactive apps |
 | 📂 File & I/O Handling | Reading and writing data using Java I/O streams |
 | 🔑 Networking | Socket programming and client–server communication |
 | 🍔 Project | **Fast Food Ordering System** – ordering, billing, and feedback |
+
+---
+
+## 🛠 Technologies Used
+
+| Technology | Description |
+|----------|-------------|
+| Java | Advanced Java |
+| JDBC | Database connectivity |
+| Swing & AWT | GUI applications |
+| MySQL | Backend database |
+| Git & GitHub | Version control |
 
 ---
 
