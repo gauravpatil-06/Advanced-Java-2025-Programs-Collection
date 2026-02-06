@@ -1,22 +1,64 @@
-# 💻 Advanced Java Programs Collection
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90"/>
+</p>
 
-🚀 A complete collection of **Advanced Java programs and mini-projects** covering enterprise-level concepts.  
-📘 Includes JDBC, Servlets, JSP, Swing GUI, networking, and a **real-world Fast Food Ordering System** project.  
-💡 Useful for **students, projects, and real-world applications** with clean and practical coding style.
+<h1 align="center">💻 Advanced Java Programs Collection</h1>
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+<p align="center">
+  🚀 A structured Advanced Java learning & project repository  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java"/>
+  <img src="https://img.shields.io/badge/Level-Intermediate%20to%20Advanced-blue"/>
+  <img src="https://img.shields.io/badge/Domain-Enterprise%20Java-purple"/>
+  <img src="https://img.shields.io/badge/Status-Active-success"/>
+</p>
+
+---
+
+## 📘 About This Repository
+
+This repository contains a **well-structured collection of Advanced Java programs and mini-projects** designed for **academic learning, practical implementation, and enterprise-level understanding**.
+
+It focuses on building real-world skills in **database connectivity, web applications, GUI development, networking**, and complete **project-based learning**.
+
+---
+
+## 💻 Advanced Java Programs Collection
+
+🚀 A complete collection of **Advanced Java programs** covering industry-relevant and enterprise concepts.
+
+📘 Topics include **JDBC, Servlets, JSP, Swing & AWT GUI, File & I/O handling, Networking**, along with a **real-world Fast Food Ordering System project**.
+
+💡 Written in a **clean, practical, and project-oriented coding style**, suitable for real applications.
+
+---
 
 ## 🔧 Key Features
 
-- 🖥 **JDBC** – Database connectivity, CRUD operations, prepared statements  
-- 🌐 **Servlets & JSP** – Web-based applications, forms, request/response handling  
-- 🪟 **GUI (Swing & AWT)** – Login forms, order systems, calculators, interactive apps  
-- 📂 **File & I/O Handling** – Reading/writing data with Java I/O streams  
-- 🔑 **Networking** – Socket programming and client-server communication  
-- 🍔 **Project** – **Fast Food Ordering System**: Complete ordering, billing, and feedback system using Advanced Java  
+| Feature Area | Details |
+|-------------|---------|
+| 🖥 JDBC | Database connectivity, CRUD operations, prepared statements |
+| 🌐 Servlets & JSP | Web applications, forms, request/response handling |
+| 🪟 GUI (Swing & AWT) | Login systems, order management, calculators, interactive apps |
+| 📂 File & I/O Handling | Reading and writing data using Java I/O streams |
+| 🔑 Networking | Socket programming and client–server communication |
+| 🍔 Mini Project | **Fast Food Ordering System** – ordering, billing, and feedback |
 
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+---
 
-## 🎯 Ideal For
+## 🛠 Technologies Used
 
-Anyone who wants to **master Advanced Java concepts** and build **real tested projects** like the Fast Food Ordering System for academics and enterprise-level practice.
+| Technology | Description |
+|----------|-------------|
+| Java | Advanced Java |
+| JDBC | Database connectivity |
+| Swing & AWT | GUI applications |
+| MySQL | Backend database |
+| Git & GitHub | Version control |
+
+---
+
+> 💻 **Advanced Java Programs Collection**  
+> From fundamentals to enterprise — build real Java applications 🚀
